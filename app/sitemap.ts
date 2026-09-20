@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = "https://vendingo.in";
+const BASE_URL = "https://www.vendingo.in";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [
